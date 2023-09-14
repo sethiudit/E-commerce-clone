@@ -57,4 +57,4 @@ This e-commerce website uses React for the front end and Firebase for hosting an
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Rohit312003/New-clone-e-commerce-website.git
+   [git clone https://github.com/sethiudit/E-commerce-web.git]
