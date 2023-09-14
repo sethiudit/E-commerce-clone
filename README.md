@@ -58,3 +58,7 @@ This e-commerce website uses React for the front end and Firebase for hosting an
 
    ```bash
    [git clone https://github.com/sethiudit/E-commerce-web.git]
+
+2. host
+   ```bash
+   [https://e-challange-312003.firebaseapp.com/]
